@@ -17,3 +17,4 @@ import CheckBox from './common/checkbox';
      onChange={(checked) => this.checkSelect(checked,rowID)} />
 ```
 
+详细的说明 请移步至 [使用教程及说明](http://www.peng8.net/2016/07/06/write-checkbox-component-in-React/)
